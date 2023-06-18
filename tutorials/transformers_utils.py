@@ -20,6 +20,12 @@ def get_params(model):
     params = sum([np.prod(p.size()) for p in model_parameters])
     return params
 
+
+# 模型的参数量
+def model_size(model):
+    return sum(t.numel() for t in model.parameters())
+
+
 def compute_classification_metrics(pred):
     # pred: PredictionOutput, from trainer.predict(dataset)
     # true label

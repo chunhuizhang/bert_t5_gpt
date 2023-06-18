@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+tutorials/distilbert-base-uncased_emotion_ft_0416/
