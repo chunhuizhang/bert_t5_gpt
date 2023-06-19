@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 tutorials/distilbert-base-uncased_emotion_ft_0416/
+tutorials/test-trainer/
+wandb/
