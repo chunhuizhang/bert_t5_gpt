@@ -129,5 +129,11 @@ dmypy.json
 .pyre/
 
 tutorials/distilbert-base-uncased_emotion_ft_0416/
+tutorials/distilbert-base-uncased-ft-clinc/
 tutorials/test-trainer/
+tutorials/model.bin
+tutorials/model2.bin
+tutorials/model/
 wandb/
+
+
