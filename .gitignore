@@ -135,5 +135,6 @@ tutorials/model.bin
 tutorials/model2.bin
 tutorials/model/
 wandb/
+sentence_transformer/
 
 
